@@ -1,6 +1,4 @@
-# Hey Welcome Buddy 👋
-
-This is Shiwansh, Passionate to become a Full Stack Developer.
+Shiwansh
 
 ## Project Name : Paytm Clone
 
@@ -20,4 +18,4 @@ In This Project I Have Created a Homepage of Paytm or you can say its clone of H
 
 ### You can Check it Live on Below Link :
 
-[Live Link !]([https://paytm-new.netlify.app](https://paytm-responsive-site.netlify.app/)
+[Live Link !](https://paytm-responsive-site.netlify.app/)
