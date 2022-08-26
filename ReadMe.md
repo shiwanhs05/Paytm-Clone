@@ -1,8 +1,8 @@
 # Hey Welcome Buddy 👋
 
-This is Shiwansh. Passionate to become a Full Stack Developer.
+This is Shiwansh, Passionate to become a Full Stack Developer.
 
-## Project Name : **Paytm Clone !**
+## Project Name : Paytm Clone
 
 In This Project I Have Created a Homepage of Paytm or you can say its clone of Homepage of Paytm Actual Website. I Have taken the reference of Paytm actual website for Creating This Project . To Create This Project i have used HTML and Tailwind CSS and max to max 10 line of css only. Its responsive on all the screen between 390px to 1440px and above as well.
 
@@ -20,4 +20,4 @@ In This Project I Have Created a Homepage of Paytm or you can say its clone of H
 
 ### You can Check it Live on Below Link :
 
-[Live Link !](https://paytm-new.netlify.app/)
+[Live Link !]([https://paytm-new.netlify.app](https://paytm-responsive-site.netlify.app/)
